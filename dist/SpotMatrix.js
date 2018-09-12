@@ -310,3 +310,5 @@ function SpotMatrix(element, dataset, chart_options) {
     }
 
 }
+
+module.exports = SpotMatrix;
